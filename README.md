@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am Tommaso Fellegara and I'm studying Computer Science Engineering at Politecnico Of Milan.
+I am currently doing the master and my hobbies are doing competitive programming and some leetcode problems.
+Check out my profile!
+
+#
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark&ext=activity)
+
 <!--
 **Felle33/Felle33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
