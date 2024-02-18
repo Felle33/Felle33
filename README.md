@@ -6,7 +6,7 @@ Check out my profile!
 
 #
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Felle33?theme=dark&ext=activity)
 
 <!--
 **Felle33/Felle33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
