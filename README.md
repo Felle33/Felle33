@@ -24,7 +24,7 @@ Check out my profile!
 
 #
 
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=Felle33&theme=2)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Felle33)
 
 <!--
 **Felle33/Felle33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
