@@ -20,11 +20,11 @@ Check out my profile!
 
 #
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Felle33?theme=dark&ext=contest)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Felle33?theme=dark&ext=contest)](https://leetcode.com/Felle33)
 
 #
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Felle33)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Felle33)](https://codeforces.com/profile/Felle33)
 
 <!--
 **Felle33/Felle33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
