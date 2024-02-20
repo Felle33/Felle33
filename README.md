@@ -1,7 +1,7 @@
 ### Tommaso Fellegara
 
 I am a student of the Politecnico of Milan where I am studying Computer Science Engineering.
-I am currently doing the master and my hobbies are doing competitive programming and some leetcode problems.
+I am currently doing the master and my hobbies are doing competitive programming on codeforces and some leetcode problems.
 Check out my profile!
 
 ---
@@ -21,6 +21,10 @@ Check out my profile!
 #
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Felle33?theme=dark&ext=contest)
+
+#
+
+![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=Felle33&theme=2)
 
 <!--
 **Felle33/Felle33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
